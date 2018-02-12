@@ -1,11 +1,11 @@
 {
   "name": "unittesting",
   "version": "1.0.0",
-  "description": "",
+  "description": "funfun functions testrunner tuto",
   "main": "part3.js",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watchAll *.js"
+    "watch": "jest --watch *.js"
   },
   "author": "",
   "license": "ISC",
